@@ -1,0 +1,7 @@
+#!/usr/bin/env python
+
+from sys import argv
+from people.people import Name
+
+name = argv[1]
+print Name(name).title()

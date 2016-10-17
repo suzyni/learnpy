@@ -1,0 +1,11 @@
+This is a LPTHW skeleton project. Original code and corresponding tests(nosetests) are included.
+
+Contents:
+
+1) lexicon.py
+
+    attribute recognizing for input word 
+
+2) people.py
+
+    title recognizing
